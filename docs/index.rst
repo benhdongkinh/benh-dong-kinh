@@ -24,14 +24,14 @@ CÁCH TRỊ BỆNHH ĐỘNG KINH
    mat-ky-da-chua-dong-kinh
 
 
-   .. _daunhucmoicogay:
+   .. _bieuhiencuacondongkinh:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Đau nhức mỏi cổ gáy
+   :caption: BIỂU HIỆN CỦA CƠN ĐỘNG KINH
 
-   dau-nhuc-moi-co-gay
+   bieu-hien-cua-con-dong-kinh
 
 .. _bantaybanchannong:
 
