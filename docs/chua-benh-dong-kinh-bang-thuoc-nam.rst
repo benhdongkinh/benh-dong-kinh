@@ -1,1 +1,1 @@
-.. include:: ../benhdongkinh.rst
+.. include:: ../chuabenhdongkinhbangthuocnam.rst
