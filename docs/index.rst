@@ -1,31 +1,25 @@
 ===============
-CÁCH CHỮA BỆNHH
+CÁCH CHỮA BỆNHH ĐỘNG KINH BẰNG THẢO DƯỢC THUỐC NAM
 ===============
 
-***********************
-BỆNH ĐỘNG KINH
-***********************
 
-.. _benhdongkinh:
+.. _chuabenhdongkinhbangthuocnam:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Bệnh động kinh
+   :caption: CÁCH CHỮA BỆNHH ĐỘNG KINH BẰNG THUỐC NAM
 
-   benh-dong-kinh
+   chua-benh-dong-kinh-bang-thuoc-nam
 
 
-***********************
-NGƯỜI LÚC NÓNG LÚC LẠNH 
-***********************
 
 .. _nguoilucnongluclanh:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Người lúc nóng lúc lạnh
+   :caption: NGƯỜI LÚC NÓNG LÚC LẠNH 
 
    nguoi-luc-nong-luc-lanh
 
@@ -50,11 +44,9 @@ NGƯỜI LÚC NÓNG LÚC LẠNH
    
 
 
-.. note:: Liên hệ Thảo mộc HHT 
-   Địa chỉ: Nhà 23a, Ngõ 137 đường Bát Khối, phường Long Biên, quận Long Biên, Hà Nội
-   Điện thoại: 0964.421.551  hoặc 0932.340.345
-.. image:: /img/thao-moc-hht.jpg
-   :alt: "Thao moc HHT"
-   :align: center
+.. note:: Liên hệ THẢO MỘC HHT 
+          Địa chỉ: Nhà 23a, Ngõ 137 đường Bát Khối, phường Long Biên, quận Long Biên, Hà Nội
+          Điện thoại: 0964.421.551 - 0932.340.345
+.. image:: /img/mot-so-san-pham-cua-thao-moc-hht.jpg
 
 
