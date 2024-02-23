@@ -48,40 +48,25 @@ Nguyên nhân của bệnh này là do truyền kinh mà bị bệnh, lúc hết
 
 Nguồn gốc là bệnh tạo thành dòng điện, hay sóng truyền thẳng vào não nên gây ra các biểu hiện động kinh khác nhau
 
-Có người trước khi lên cơn động kinh thì biết 
+Có người trước khi lên cơn động kinh thì biết, Có người miêu tả nó giống như một luồng khí.
 
-
-
-
+Với mỗi một người thương có các nguyên nhân khác nhau gây nên bệnh này, mỗi một người sẽ có một chứng bệnh riêng, nên việc tìm ra chứng bệnh chữa rất quan trọng.
 
 .. image:: /img/benh-dong-kinh-la-gi.jpg
    :alt: "nguyên nhân bệnh động kinh"
    :align: center
 
-Theo đông y, y học cổ truyền thì phân ra một số nguyên nhân sau:
-
-+ Do bị các bệnh cụ thể mà bị co giật, động kinh như bị khối u thì tìm cách chữa trị khối u là bệnh động kinh sẽ hết
-+ Do bị bệnh ở gan, ở mật
-Bệnh ở gan ở mật thì thể hiện bằng việc xét nghiệm men gan, xét nghiệm máu, hoặc thể hiện ra ngoài có thể vàng da, mất ngủ, táo bón, đau cạnh sườn.
-+ Do bị bị bệnh ở dạ dày, đại tràng ( ruột già, ruột non)
-Thể hiện ra ngoài như hay đổ mồ hôi, hoặc sợ nóng, thích trèo cao, thích ca hát, có thể đại tiện táo bón hoặc lỏng nát
-+ Do bị bệnh ở tủy sống, ở não bộ
-Thường khi bị bệnh sẽ bị sốt cao, cứng gáy, biểu hiện sau này ảnh hưởng đến trí nhớ, não bộ.
-+ Do bị thủy độc hay đàm nhớt mà sinh bệnh
-Thường biểu hiện kèm theo khó thỏ, hoa mắt, chóng mặt.
-
-.. image:: /img/cach-chua-benh-dong-kinh.jpg
-   :alt: "nguyên nhân bệnh động kinh theo đông y"
-   :align: center
-
 ***************************************
 Cách chữa bệnh động kinh bằng thảo dược
 ***************************************
-**Thảo mộc HHT** thường dùng thảo dược kết hợp với mật kỳ đà để chữa bệnh động kinh với một liệu trình là 1 tháng sử dụng mật kỳ đà được tặng 05 ngày sử dụng thảo dược. Thường người bị bệnh động kinh dùng từ 3 liệu trình là có chuyển biến.
+**Thảo mộc HHT** thường dùng mật kỳ đà kết hợp với thảo dược để chữa bệnh này thông thường thì điều trị khoảng 3 tháng mà thấy có chuyển biến thì chữa đến khỏi, khi dùng thảo dược và mật kỳ đà tầm 3 tháng liên tục mà không có chuyển biến thì không chữa được.
 
-Trong trường hợp dùng 03 liệu trình thảo dược kết hợp với mật mà chưa có chuyển biến thì có thế cân nhắc chỉ dùng thảo dược điều trị tầm 3 liệu trình.
++ Mật kỳ đà khi dùng được cắt thành các miếng nhỏ bằng tầm hạt thóc hoặc hạt đậu xanh, ngày dùng 2 lần uống vào lúc sau khi ăn.
 
-Thông thường thì chỉ cần dùng thảo dược kết hợp với mật là đã có kết quả tốt, một số trường hợp khó điều trị thì gia đình người bệnh cần kiên trì thay đổi các loại thảo dược để có thể chữa khỏi bệnh động kinh
+*Xem thêm : `Tác dụng của mật kỳ đà <https://hahuytoai.com/thao-duoc/mat-ky-da-tac-dung-cua-mat-ky-da.html>`_
+
+
++ Thảo dược cũng ngày dùng 2 lần thường dùng cùng lúc với khi uống mật, nếu không tiện uống sau khi ăn thì uống trước khi ăn cũng được.
 
 .. image:: /img/chua-benh-dong-kinh-bang-thao-duoc-mat-ky-da.jpg
    :alt: "Chữa bệnh động kinh bằng thảo dược và mật kỳ đà"
@@ -123,11 +108,9 @@ Thuốc chữa bệnh động kinh giá bao nhiêu
 *****************************
 **Thuốc là thảo dược kết hợp với mật kỳ đà**
 
-Được bán với liệu trình là theo tháng, khi bạn mua 01 tháng dùng thảo dược kết hợp với mật kỳ đà thì được tặng 05 ngày sử dụng thảo dược, chỉ tính tiền 01 tháng dùng mật.
+Được bán với liệu trình là theo tháng, khi bạn mua 01 tháng dùng thảo dược kết hợp với mật kỳ đà 
 
-**Có giá bán cụ thể: 1,5 triệu đồng cho 01 liệu trình.**
-
-**Thuốc là thảo dược dùng cho 01 tháng thì có giá 2,5 triệu đồng/ tháng. **
+**Có giá bán cụ thể: 2,0 triệu đồng cho 01 liệu trình.**
 
 .. image:: /img/thuoc-chua-benh-dong-kinh-gia-bao-nhieu.jpg
    :alt: "Thuốc chữa bệnh động kinh giá bao nhiêu"
@@ -135,24 +118,8 @@ Thuốc chữa bệnh động kinh giá bao nhiêu
 
 Các bạn ở xa nhà thuốc có thể gửi thuốc qua đường bưu điện. 
 
-Thuốc này gồm những vị gì:
-==========================
-Tùy theo từng chứng bệnh mà các vị thuốc có thể thay đổi, thông thường thuốc có các vị như sau:
-+ Mật kỳ đà
-+ Ma hoàng
-+ Cát căn
-+ Cam thảo
-+ Quế chi
 
-Cách sử dụng thuốc này thế nào
-==============================
-Thuốc là thảo dược thì phải đun sôi tầm 30 phút đến 1 hoặc 2 tiếng, tùy theo loại thuốc, loại thảo dược mà có hướng dẫn cụ thể.
-
-Thuốc là thảo dược đã được nghiền thành bột thì chỉ cần đun sôi tầm 15 phút là dùng được.
-
-Thuốc là dạng cây, cành, rễ, củ thì phải đun từ 2 đến 3 tiếng mới được 01 1 bát thuốc. Chi tiết có hướng dẫn dùng trong từng thang thuốc.
-
-Cách sử dụng mật kỳ đà: mời các bạn xem video phía dưới
+**Cách sử dụng mật kỳ đà: mời các bạn xem video phía dưới**
 https://www.youtube.com/watch?v=9zXO3VAUsZU
 
 **Video:** `Cách sử dụng mật kỳ đà <https://www.youtube.com/watch?v=9zXO3VAUsZU>`_
@@ -182,6 +149,16 @@ Các bài viết có thể bạn chưa xem
 + `Đau nhức mỏi cổ gáy  <https://cachchuabenh.readthedocs.io/en/latest/dau-nhuc-moi-co-gay.html>`_
 
 + `Bàn tay bàn chân nóng <https://cachchuabenh.readthedocs.io/en/latest/ban-tay-ban-chan-nong.html>`_
+
++ `Mua mật kỳ đà ở đâu <https://hahuytoai.com/thao-duoc/mat-ky-da-tac-dung-cua-mat-ky-da.html>`_
+
++ `Chữa polyp đại tràng bằng thuốc nam <https://hahuytoai.com/cach-chua-benh/chua-polyp-dai-trang-bang-thuoc-nam.html>`_
+
++ `Điều trị rò hậu môn không cần phẫu thuật <https://hahuytoai.com/cach-chua-benh/dieu-tri-ro-hau-mon-khong-can-phau-thuat.html>`_
+
++ `Đau dây thần kinh số 5 và cách chữa tận gốc bằng thảo dược <https://hahuytoai.com/cach-chua-benh/dau-day-than-kinh-so.html>`_
+
++ `Củ chìa vôi, rễ chìa vôi <https://hahuytoai.com/thao-duoc/cu-chia-voi-cay-chia-voi-tac-dung-cach-su-dung.html>`_`
 
 
 
