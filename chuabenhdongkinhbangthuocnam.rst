@@ -13,7 +13,7 @@ Theo quan điểm y học dân gian hoặc y học cổ truyền, bệnh động
 **************************
 Nguyên nhân bệnh động kinh 
 **************************
-a. Theo y học hiện đại
+a . Theo y học hiện đại
 ---------------
 
  Đến 50% các trường hợp bệnh động kinh không thể xác định được nguyên nhân cụ thể. Phần còn lại trong tỷ lệ này có thể được giải thích bởi các nguyên nhân sau đây:
@@ -30,7 +30,8 @@ a. Theo y học hiện đại
 
 + Yếu tố di truyền: Một số dạng động kinh có tính chất di truyền. Mặc dù có mối liên kết giữa một số loại động kinh và các gen cụ thể, nhưng thường gen chỉ đóng vai trò một phần trong nguyên nhân của bệnh. Một số gen có thể làm tăng khả năng phản ứng của người đó với các yếu tố môi trường gây ra động kinh.
 
-b. Theo y học cổ truyền - đông y.
+b . Theo y học cổ truyền - đông y.
+---------------
 
 Bệnh động kinh còn được gọi là bệnh giản
 
@@ -40,7 +41,8 @@ Tuy nhiên hiện nay phần nhiều là lên cơn động kinh co giật chân 
 
 Nguyên nhân bệnh động kinh do quá lo sợ, thần khí không tự chủ được, hoặc do trong lúc mang thai, mẹ bị kinh sợ lúc sinh mang tật ấy.
 
-c. Quan điểm của thảo mộc hht.
+c . Quan điểm của thảo mộc hht.
+---------------
 
 Động kinh là một bệnh khó chữa, thường chữa lâu và tốn kém, có người chỉ chữa đỡ chứ không khỏi được.
 
