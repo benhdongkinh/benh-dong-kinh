@@ -14,14 +14,14 @@ CÁCH TRỊ BỆNHH ĐỘNG KINH
 
 
 
-.. _nguoilucnongluclanh:
+.. _matkydachuadongkinh:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: NGƯỜI LÚC NÓNG LÚC LẠNH 
+   :caption: MẬT KỲ ĐÀ CHỮA ĐỘNG KINH 
 
-   nguoi-luc-nong-luc-lanh
+   mat-ky-da-chua-dong-kinh
 
 
    .. _daunhucmoicogay:
