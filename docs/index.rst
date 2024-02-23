@@ -1,5 +1,5 @@
 ===============
-CÁCH CHỮA BỆNHH ĐỘNG KINH BẰNG THẢO DƯỢC THUỐC NAM
+CÁCH TRỊ BỆNHH ĐỘNG KINH
 ===============
 
 
