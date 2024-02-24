@@ -33,14 +33,14 @@ CÁCH TRỊ BỆNHH ĐỘNG KINH
 
    bieu-hien-cua-con-dong-kinh
 
-.. _bantaybanchannong:
+.. _dongkinhlabenhgi:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Bàn tay bàn chân nóng
+   :caption: DONG KINH LÀ BENH GI ĐỘNG KINH LÀ BỆNH GÌ
 
-   ban-tay-ban-chan-nong
+   dong-kinh-la-benh-gi
    
 
 
